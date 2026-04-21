@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Audio
+*.wav
+
+# Datos dinámicos
+data/casos.json
+
+# Modelos
+*.bin
+*.pt
+
+# Sistema
+.DS_Store
+Thumbs.db

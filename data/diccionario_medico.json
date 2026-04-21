@@ -1,0 +1,22 @@
+{
+  "sintomas": [
+    "dolor torácico opresivo",
+    "disnea",
+    "fiebre",
+    "tos"
+  ],
+  "medicamentos": [
+    "aspirina",
+    "paracetamol",
+    "ibuprofeno"
+  ],
+  "alergias": [
+    "penicilina",
+    "sulfas"
+  ],
+  "diagnosticos": [
+    "síndrome coronario agudo",
+    "neumonía",
+    "gastritis"
+  ]
+}
